@@ -1,6 +1,4 @@
 from .start import dp
-from .help import dp
-from .text import dp
-from .all_hand import dp
+from .new_user import dp
 
 __all__ = ['dp']
